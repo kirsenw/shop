@@ -45,7 +45,7 @@ p {
 
 .info {
     flex-wrap: wrap;
-    width: 1100px;
+    justify-content: center;
     margin: 0px;
 }
 
@@ -65,6 +65,7 @@ article {
     padding: 10px 75px 10px 75px;
     margin: 0 auto;
     display: block;
+    border-radius: 35px;
 }
 
 footer {
